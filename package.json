@@ -1,0 +1,22 @@
+{
+  "name": "@nerds.sh/elrond-decoder",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "tsc",
+    "prepublish": "yarn build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@elrondnetwork/erdjs": "9.2.0",
+    "@nerds.sh/js-pattern": "0.0.2",
+    "lodash": "4.17.21"
+  },
+  "devDependencies": {
+    "typescript": "4.6.3"
+  }
+}
