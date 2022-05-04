@@ -7,13 +7,13 @@ Npm package for decoding Elrond smart contract queries based on ABIs.
 Using npm:
 
 ```sh
-npm install -E elrond-decoder
+npm install -E @nerds.sh/elrond-decoder
 ```
 
 Using yarn:
 
 ```sh
-yarn add -E elrond-decoder
+yarn add -E @nerds.sh/elrond-decoder
 ```
 
 ## Example
